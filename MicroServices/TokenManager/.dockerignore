@@ -1,0 +1,12 @@
+Dokerfile
+.dockerignore
+.git*
+
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/test/**/
+!**/target/**/
+Dockerfile
+
+### IntelliJ IDEA ###
+.idea
